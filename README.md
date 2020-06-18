@@ -1,2 +1,2 @@
-# Jogo-de-Historia-para-celular
+# Jogo para celular
 Jogo que contara através de objetos pelo cenário a história do Brasil  
