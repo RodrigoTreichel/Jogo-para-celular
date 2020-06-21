@@ -1,2 +1,2 @@
 # Jogo para celular
-Jogo que contara através de objetos pelo cenário a história do Brasil  
+Jogo que contará através de objetos pelo cenário a história do Brasil  
